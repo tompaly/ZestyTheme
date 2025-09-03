@@ -2677,7 +2677,7 @@
   }
 
   /* replaces Jellyfin logo */
-  .adminDrawerLogo img { content: url(https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/images/logo/jellyfin-logo-light.png) !important; } imgLogoIcon { content: url(https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/images/logo/jellyfin-logo-light.png) !important; } .pageTitleWithLogo { background-image: url(https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/images/logo/jellyfin-logo-light.png) !important; } /* imgur link https://i.imgur.com/wHaGTm4.png */
+  .adminDrawerLogo img { content: url(https://i.ibb.co/nMB996R2/Untitled-3.png) !important; } imgLogoIcon { content: url(https://i.ibb.co/nMB996R2/Untitled-3.png) !important; } .pageTitleWithLogo { background-image: url(https://i.ibb.co/nMB996R2/Untitled-3.png) !important; } /* imgur link https://i.imgur.com/wHaGTm4.png */
 
   /* fixes issue with Movies > Genres hover boxes */
   .sectionTitleTextButton > .sectionTitle {
